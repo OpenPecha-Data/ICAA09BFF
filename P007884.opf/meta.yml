@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W28975
   title: ནད་རྟགས་ཕྱོགས་བསྒྲིགས་ཀུན་གསལ་ཤེལ་གྱི་མེ་ལོང་།
-  volume: ''
+  volume:
+    77fc4632c5064003a47aadb8d0922dc8:
+      image_group_id: I1PD30323
+      title: Volume 1 of nad rtags phyogs bsgrigs kun gsal shes gyi me long
+      volume_number: 1
+      total_pages: 456
   author: ''
+ebook_metadata:
+  title: ནད་རྟགས་ཕྱོགས་བསྒྲིགས་ཀུན་གསལ་ཤེལ་གྱི་མེ་ལོང་།
+  author: ''
+  sku: P007884
+  cover: cover.jpg
+  layers:
+  - pagination
